@@ -86,7 +86,7 @@ section.banner-principal{
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 710px;
+  height: 900px;
   background-image: url("../imagens/interestelar.jpg");
   background-position: center;
   background-repeat: no-repeat;
@@ -140,7 +140,7 @@ section.banner-principal{
   display: flex;
   width: 250px;
   height: 50px;
-  color: #fff;
+  color: white;
   background-color: #bababad8;
   border: #00000051 ;
   border-radius: 5px;
@@ -151,6 +151,15 @@ section.banner-principal{
   margin-left: 15px;
   cursor: pointer;
 }
+
+.play:hover{
+  background:#d0cfcf !important;;
+}
+
+.info:hover{
+  background-color:#9e9d9da3 !important;
+}
+
 
 .buttons i{
   font-size: 25px;
