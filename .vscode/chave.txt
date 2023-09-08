@@ -1,0 +1,12 @@
+
+
+OMDb key:4b9468f4
+
+OMDB API: http://www.omdbapi.com/?i=tt3896198&apikey=4b9468f4
+
+
+chave:
+5d69b10329c8b22fb6035b2ccf31a6e7
+//////////////////////////////////////////////////////
+token:
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1ZDY5YjEwMzI5YzhiMjJmYjYwMzViMmNjZjMxYTZlNyIsInN1YiI6IjY0YmIxMWFjZWI3OWMyMDEzOTY5YmYzMyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.iTrJSkMAO6j64BDjkn840JbQov2W0zZfcFtgP8qzv04
